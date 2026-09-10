@@ -10,7 +10,6 @@
 | Access Provisioning | I | I | A | R | I | I | R |
 | Vendor Due Diligence | I | I | A | C | R | C | I |
 
- /
  
 Legend:
 
